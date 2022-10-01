@@ -1,4 +1,4 @@
-dockertag=jgwill/dotnet:x6.0
+dockertag=jgwill/dotnet:runtime-6.0
 
 containername=jgwilldotnet6x
 dkhostname=$containername

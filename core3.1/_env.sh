@@ -1,6 +1,6 @@
-dockertag=jgwill/dotnet:x6.0
+dockertag=jgwill/dotnet:core-3.1
 
-containername=jgwilldotnet6x
+containername=jgwilldotnet3x
 dkhostname=$containername
 
 # PORT
