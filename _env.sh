@@ -1,6 +1,6 @@
-dockertag=jgwill/dotnet:x6.0
+dockertag=jgwill/dotnet:sdk-6.0
 
-containername=jgwilldotnet6x
+containername=jgwilldotnet6sdk
 dkhostname=$containername
 
 # PORT

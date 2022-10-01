@@ -1,4 +1,4 @@
-dockertag=jgwill/dotnet:core-3.1
+dockertag=jgwill/dotnet:runtime-3.1
 
 containername=jgwilldotnet3x
 dkhostname=$containername
